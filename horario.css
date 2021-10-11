@@ -1,0 +1,80 @@
+body{background-image: url(img/cielo\ estrellado.jpg);}
+
+.imagen img{
+    width: 25%;
+   border: red solid;
+    
+    height: auto;
+    padding: 5px;
+    box-shadow: 10px 10px 10px 10px red;
+    margin: auto;
+     
+    
+}
+.parrafo{color: rgb(255, 255, 255);
+    font-size: 30px;
+
+}
+table,tr,th,td{
+    border: blanchedalmond solid;
+    color: cornsilk;
+}
+.yo{
+    color: crimson;
+}
+h1{color: rgb(251, 0, 0);
+}
+p{color:white;}
+
+
+
+ul{border: cadetblue solid;
+margin-top: auto;
+color: white;
+background-color: sandybrown;
+}
+h3{text-align: center;
+color: rgb(246, 160, 0);
+}
+h2{color:rgb(246, 160, 0) ;
+    text-align: center}
+
+.hora{
+    text-align: center;
+}
+ol{border: peru;
+background-color: rgb(255, 255, 255);
+color: slategrey;}
+
+input{margin-top: 20px;}
+.lebel{color: chocolate ;}
+.espacio{
+    margin: 30px;
+}
+
+button{color: darkcyan;
+text-align:center;
+margin-top: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
